@@ -1,2 +1,2 @@
-# Analog-Clock
-this tool is used for accurate time
+# Analog_Clock
+An Analog clock is for reading the accurate time of day
